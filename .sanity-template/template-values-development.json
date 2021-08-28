@@ -1,0 +1,18 @@
+{
+	"repository": {
+		"name": "sanity-netlify-poc",
+		"owner": "sanity-io",
+		"private": false
+	},
+	"sanity": {
+		"projectId": "rx5phl1g",
+		"dataset": "production",
+		"projectTitle": "FlexiBlog Sanity CMS"
+	},
+	"user": {
+		"profileImage": "https://avatars.githubusercontent.com/u/73747424?v=4",
+		"displayName": "ElegantStack",
+		"email": "elegantstack.studio@gmail.com"
+	},
+	"userInput": {}
+}
